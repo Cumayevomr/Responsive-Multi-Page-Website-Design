@@ -181,6 +181,7 @@ h3{
 }
 .campus-col img{
     width: 100%;
+    display: block;
 }
 .layer{
     background: transparent;
@@ -211,9 +212,14 @@ h3{
     opacity: 1;
 }
 
+/* facilities */
 
-
-
+.facilities{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
 
 
 
